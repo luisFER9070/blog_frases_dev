@@ -1,5 +1,5 @@
 # Frases célebres de programadores
-
+hola ciudadanos del mundo
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
 
 "Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza" -- Paul Leary
