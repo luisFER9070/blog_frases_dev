@@ -1,5 +1,5 @@
 # Frases célebres de programadores
-hola ciudadanos del mundo
+que onda
 
 "Tienen ordenadores, y pueden tener otras armas de destrucción masiva" --Janet Reno
 
